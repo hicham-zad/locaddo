@@ -98,8 +98,8 @@ const LocaddoLanding = () => {
               </div>
               <span className="text-3xl font-bold tracking-tight">Locaddo</span>
             </div>
-            <button className="bg-black text-white px-6 py-3 rounded-xl hover:bg-gray-800 transition-all duration-300 font-medium">
-              Get Notified
+            <button  className="bg-black text-white px-6 py-3 rounded-xl hover:bg-gray-800 transition-all duration-300 font-medium">
+           <a href="#waitlist" >      Get Notified</a>
             </button>
           </div>
         </div>
