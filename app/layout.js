@@ -19,7 +19,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Locaddo - Turn Local News Into SEO Content',
     description: 'Transform local news into SEO-optimized content automatically.',
-    images: ['/twitter-image.jpg'],
+    images: ['/twitter-img.jpg'],
   },
   robots: {
     index: true,
