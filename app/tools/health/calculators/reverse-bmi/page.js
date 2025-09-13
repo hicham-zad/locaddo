@@ -1,7 +1,8 @@
 import React from "react";
 import Script from "next/script";
 import Link from "next/link";
-import ReverseBMICalculator from "../../../../components/ReverseBMICalculator.jsx";
+import ReverseBMICalculator from "@/components/ReverseBMICalculator";
+
 
 // ---------- SEO Metadata ----------
 export const metadata = {
@@ -172,7 +173,7 @@ export default function ReverseBMIPage() {
 
         {/* Calculator */}
         <div className="mb-20">
-          <ReverseBMICalculator />
+          <ReverseBMICalculator/>
         </div>
 
         {/* Content Grid */}
